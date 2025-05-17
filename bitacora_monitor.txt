@@ -1,0 +1,132 @@
+Thread 1: Solicitando 3 recursos...
+Thread 1: Obtuvo 3 recursos. Quedan 2.
+Thread 1: Usando recursos (2s)
+Thread 2: Solicitando 1 recursos...
+Thread 2: Obtuvo 1 recursos. Quedan 1.
+Thread 2: Usando recursos (3s)
+Thread 3: Solicitando 1 recursos...
+Thread 3: Obtuvo 1 recursos. Quedan 0.
+Thread 3: Usando recursos (2s)
+Thread 5: Solicitando 1 recursos...
+Thread 5: Esperando por 1 recursos... (hay 0)
+Thread 4: Solicitando 3 recursos...
+Thread 4: Esperando por 3 recursos... (hay 0)
+Thread 1: Liberó 3 recursos. Disponibles: 3.
+Thread 1: Solicitando 1 recursos...
+Thread 1: Obtuvo 1 recursos. Quedan 2.
+Thread 1: Usando recursos (3s)
+Thread 5: Obtuvo 1 recursos. Quedan 1.
+Thread 5: Usando recursos (3s)
+Thread 3: Liberó 1 recursos. Disponibles: 2.
+Thread 3: Solicitando 2 recursos...
+Thread 3: Obtuvo 2 recursos. Quedan 0.
+Thread 3: Usando recursos (1s)
+Thread 4: Esperando por 3 recursos... (hay 0)
+Thread 2: Liberó 1 recursos. Disponibles: 1.
+Thread 2: Solicitando 2 recursos...
+Thread 2: Esperando por 2 recursos... (hay 1)
+Thread 4: Esperando por 3 recursos... (hay 1)
+Thread 3: Liberó 2 recursos. Disponibles: 3.
+Thread 3: Solicitando 3 recursos...
+Thread 3: Obtuvo 3 recursos. Quedan 0.
+Thread 3: Usando recursos (2s)
+Thread 2: Esperando por 2 recursos... (hay 0)
+Thread 4: Esperando por 3 recursos... (hay 0)
+Thread 1: Liberó 1 recursos. Disponibles: 1.
+Thread 1: Solicitando 1 recursos...
+Thread 1: Obtuvo 1 recursos. Quedan 0.
+Thread 1: Usando recursos (3s)
+Thread 4: Esperando por 3 recursos... (hay 0)
+Thread 3: Liberó 3 recursos. Disponibles: 3.
+Thread 3: Solicitando 3 recursos...
+Thread 3: Obtuvo 3 recursos. Quedan 0.
+Thread 3: Usando recursos (3s)
+Thread 5: Liberó 1 recursos. Disponibles: 1.
+Thread 5: Solicitando 2 recursos...
+Thread 5: Esperando por 2 recursos... (hay 1)
+Thread 2: Esperando por 2 recursos... (hay 1)
+Thread 4: Esperando por 3 recursos... (hay 1)
+Thread 1: Liberó 1 recursos. Disponibles: 2.
+Thread 1: Solicitando 1 recursos...
+Thread 1: Obtuvo 1 recursos. Quedan 1.
+Thread 1: Usando recursos (2s)
+Thread 5: Esperando por 2 recursos... (hay 1)
+Thread 4: Esperando por 3 recursos... (hay 1)
+Thread 3: Liberó 3 recursos. Disponibles: 4.
+Thread 3: Solicitando 3 recursos...
+Thread 3: Obtuvo 3 recursos. Quedan 1.
+Thread 2: Esperando por 2 recursos... (hay 1)
+Thread 5: Esperando por 2 recursos... (hay 1)
+Thread 3: Usando recursos (2s)
+Thread 4: Esperando por 3 recursos... (hay 1)
+Thread 1: Liberó 1 recursos. Disponibles: 2.
+Thread 1: Solicitando 3 recursos...
+Thread 1: Esperando por 3 recursos... (hay 2)
+Thread 4: Esperando por 3 recursos... (hay 2)
+Thread 5: Obtuvo 2 recursos. Quedan 0.
+Thread 5: Usando recursos (1s)
+Thread 2: Esperando por 2 recursos... (hay 0)
+Thread 3: Liberó 3 recursos. Disponibles: 3.
+Thread 1: Obtuvo 3 recursos. Quedan 0.
+Thread 1: Usando recursos (1s)
+Thread 2: Esperando por 2 recursos... (hay 0)
+Thread 4: Esperando por 3 recursos... (hay 0)
+Thread 5: Liberó 2 recursos. Disponibles: 2.
+Thread 5: Solicitando 3 recursos...
+Thread 5: Esperando por 3 recursos... (hay 2)
+Thread 2: Obtuvo 2 recursos. Quedan 0.
+Thread 2: Usando recursos (1s)
+Thread 1: Liberó 3 recursos. Disponibles: 3.
+Thread 4: Obtuvo 3 recursos. Quedan 0.
+Thread 4: Usando recursos (2s)
+Thread 5: Esperando por 3 recursos... (hay 0)
+Thread 2: Liberó 2 recursos. Disponibles: 2.
+Thread 2: Solicitando 2 recursos...
+Thread 2: Obtuvo 2 recursos. Quedan 0.
+Thread 2: Usando recursos (3s)
+Thread 5: Esperando por 3 recursos... (hay 0)
+Thread 4: Liberó 3 recursos. Disponibles: 3.
+Thread 4: Solicitando 2 recursos...
+Thread 4: Obtuvo 2 recursos. Quedan 1.
+Thread 4: Usando recursos (1s)
+Thread 5: Esperando por 3 recursos... (hay 1)
+Thread 4: Liberó 2 recursos. Disponibles: 3.
+Thread 4: Solicitando 1 recursos...
+Thread 4: Obtuvo 1 recursos. Quedan 2.
+Thread 4: Usando recursos (2s)
+Thread 5: Esperando por 3 recursos... (hay 2)
+Thread 2: Liberó 2 recursos. Disponibles: 4.
+Thread 2: Solicitando 3 recursos...
+Thread 2: Obtuvo 3 recursos. Quedan 1.
+Thread 2: Usando recursos (2s)
+Thread 5: Esperando por 3 recursos... (hay 1)
+Thread 4: Liberó 1 recursos. Disponibles: 2.
+Thread 4: Solicitando 3 recursos...
+Thread 4: Esperando por 3 recursos... (hay 2)
+Thread 5: Esperando por 3 recursos... (hay 2)
+Thread 2: Liberó 3 recursos. Disponibles: 5.
+Thread 2: Solicitando 2 recursos...
+Thread 2: Obtuvo 2 recursos. Quedan 3.
+Thread 2: Usando recursos (2s)
+Thread 5: Obtuvo 3 recursos. Quedan 0.
+Thread 5: Usando recursos (2s)
+Thread 4: Esperando por 3 recursos... (hay 0)
+Thread 2: Liberó 2 recursos. Disponibles: 2.
+Thread 4: Esperando por 3 recursos... (hay 2)
+Thread 5: Liberó 3 recursos. Disponibles: 5.
+Thread 5: Solicitando 1 recursos...
+Thread 5: Obtuvo 1 recursos. Quedan 4.
+Thread 5: Usando recursos (1s)
+Thread 4: Obtuvo 3 recursos. Quedan 1.
+Thread 4: Usando recursos (2s)
+Thread 5: Liberó 1 recursos. Disponibles: 2.
+Thread 5: Solicitando 3 recursos...
+Thread 5: Esperando por 3 recursos... (hay 2)
+Thread 4: Liberó 3 recursos. Disponibles: 5.
+Thread 4: Solicitando 1 recursos...
+Thread 4: Obtuvo 1 recursos. Quedan 4.
+Thread 4: Usando recursos (1s)
+Thread 5: Obtuvo 3 recursos. Quedan 1.
+Thread 5: Usando recursos (2s)
+Thread 4: Liberó 1 recursos. Disponibles: 2.
+Thread 5: Liberó 3 recursos. Disponibles: 5.

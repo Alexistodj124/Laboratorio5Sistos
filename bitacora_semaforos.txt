@@ -1,0 +1,75 @@
+Thread 1: Esperando recurso... (iteración 1)
+Thread 1: Recurso obtenido. Recursos restantes: 2
+Thread 3: Esperando recurso... (iteración 1)
+Thread 3: Recurso obtenido. Recursos restantes: 1
+Thread 4: Esperando recurso... (iteración 1)
+Thread 4: Recurso obtenido. Recursos restantes: 0
+Thread 5: Esperando recurso... (iteración 1)
+Thread 2: Esperando recurso... (iteración 1)
+Thread 1: Recurso liberado. Recursos disponibles: 1
+Thread 1: Esperando recurso... (iteración 2)
+Thread 5: Recurso obtenido. Recursos restantes: 0
+Thread 5: Recurso liberado. Recursos disponibles: 1
+Thread 5: Esperando recurso... (iteración 2)
+Thread 2: Recurso obtenido. Recursos restantes: 0
+Thread 3: Recurso liberado. Recursos disponibles: 1
+Thread 3: Esperando recurso... (iteración 2)
+Thread 4: Recurso liberado. Recursos disponibles: 2
+Thread 4: Esperando recurso... (iteración 2)
+Thread 1: Recurso obtenido. Recursos restantes: 1
+Thread 5: Recurso obtenido. Recursos restantes: 0
+Thread 2: Recurso liberado. Recursos disponibles: 1
+Thread 2: Esperando recurso... (iteración 2)
+Thread 3: Recurso obtenido. Recursos restantes: 0
+Thread 1: Recurso liberado. Recursos disponibles: 1
+Thread 1: Esperando recurso... (iteración 3)
+Thread 5: Recurso liberado. Recursos disponibles: 2
+Thread 5: Esperando recurso... (iteración 3)
+Thread 4: Recurso obtenido. Recursos restantes: 1
+Thread 2: Recurso obtenido. Recursos restantes: 0
+Thread 3: Recurso liberado. Recursos disponibles: 1
+Thread 3: Esperando recurso... (iteración 3)
+Thread 3: Recurso obtenido. Recursos restantes: 0
+Thread 2: Recurso liberado. Recursos disponibles: 1
+Thread 1: Recurso obtenido. Recursos restantes: 0
+Thread 4: Recurso liberado. Recursos disponibles: 2
+Thread 5: Recurso obtenido. Recursos restantes: 1
+Thread 4: Esperando recurso... (iteración 3)
+Thread 2: Esperando recurso... (iteración 3)
+Thread 5: Recurso liberado. Recursos disponibles: 1
+Thread 5: Esperando recurso... (iteración 4)
+Thread 4: Recurso obtenido. Recursos restantes: 0
+Thread 3: Recurso liberado. Recursos disponibles: 1
+Thread 3: Esperando recurso... (iteración 4)
+Thread 3: Recurso obtenido. Recursos restantes: 0
+Thread 3: Recurso liberado. Recursos disponibles: 1
+Thread 3: Esperando recurso... (iteración 5)
+Thread 5: Recurso obtenido. Recursos restantes: 0
+Thread 1: Recurso liberado. Recursos disponibles: 1
+Thread 1: Esperando recurso... (iteración 4)
+Thread 1: Recurso obtenido. Recursos restantes: 0
+Thread 4: Recurso liberado. Recursos disponibles: 1
+Thread 4: Esperando recurso... (iteración 4)
+Thread 4: Recurso obtenido. Recursos restantes: 0
+Thread 4: Recurso liberado. Recursos disponibles: 1
+Thread 4: Esperando recurso... (iteración 5)
+Thread 2: Recurso obtenido. Recursos restantes: 0
+Thread 5: Recurso liberado. Recursos disponibles: 1
+Thread 5: Esperando recurso... (iteración 5)
+Thread 5: Recurso obtenido. Recursos restantes: 0
+Thread 5: Recurso liberado. Recursos disponibles: 1
+Thread 4: Recurso obtenido. Recursos restantes: 0
+Thread 1: Recurso liberado. Recursos disponibles: 1
+Thread 1: Esperando recurso... (iteración 5)
+Thread 3: Recurso obtenido. Recursos restantes: 0
+Thread 2: Recurso liberado. Recursos disponibles: 1
+Thread 2: Esperando recurso... (iteración 4)
+Thread 1: Recurso obtenido. Recursos restantes: 0
+Thread 1: Recurso liberado. Recursos disponibles: 1
+Thread 2: Recurso obtenido. Recursos restantes: 0
+Thread 4: Recurso liberado. Recursos disponibles: 1
+Thread 3: Recurso liberado. Recursos disponibles: 2
+Thread 2: Recurso liberado. Recursos disponibles: 3
+Thread 2: Esperando recurso... (iteración 5)
+Thread 2: Recurso obtenido. Recursos restantes: 2
+Thread 2: Recurso liberado. Recursos disponibles: 3
